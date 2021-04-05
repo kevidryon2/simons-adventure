@@ -1,0 +1,28 @@
+{
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZDAwNzA4MDAwODAwMDIwMDAwMGYwZjBmZjBmZmZkMDAwMGRkMGQwMDAwZGQwZDAwMDA2OTAwMDAwMDgwMGQwMDAwNzAwMDAwMDBlMDBlMDAwMDBmMGYwZmYwZmZmZDAwMDBkZDBkMDBkMGRkMGQwMDAwNjkwMDAwMDA4MDAwMDAwMDcwMDAwMDAwZTAwZTAw",
+        "displayName": "player_idle"
+    },
+    "anim2": {
+        "namespace": "myAnimations",
+        "id": "anim2",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDA4MDAwODAwMDIwMDAwMGYwZjBmZjBmZmZkMDAwMGRkMGQwMDAwZGQwZDAwZDA2OTAwMDAwMDgwMDAwMDAwMDcwMDAwZTAwZTAwMDAwMGYwZjBmMDAwZmZkZjBmMDBkMGRkMDAwMGQwZGQwMDAwOWQwNjAwMDAwMDA4MDAwMDcwMDAwMGUwMGUwMDAw",
+        "displayName": "player_tripping"
+    },
+    "anim3": {
+        "namespace": "myAnimations",
+        "id": "anim3",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDA4MDAwODAwMDUwMDAwMGYwZjBmZjBmZmZkMDAwMGRkMGQwMDAwZGQwZDAwZDA2OTAwMDAwMDgwMDAwMDAwMDcwMDAwZTAwZTAwMDAwMDBmMGYwZmYwZmZmZDAwMDBkZDBkMDAwMGRkMGQwMGQwNjkwMDAwMDA4MDAwMDAwMDA3MDAwMDAwZWUwMDAwMDAwZjBmMGZmMGZmZmQwMDAwZGQwZDAwMDBkZDBkMDBkMDY5MDAwMDAwODAwMDAwMDA3MDAwMDAwMGUwMGUwMDAwMGYwZjBmZjBmZmZkMDAwMGRkMGQwMDAwZGQwZDAwZDA2OTAwMDAwMDgwMDAwMDAwMDAwNzAwMDAwMGVlMDAwMDBmMGYwZmYwZmZmZDAwMDBkZDBkMDAwMGRkMGQwMGQwNjkwMDAwMDA4MGUwMDAwMDAwZTcwMDAwMDAwMDAw",
+        "displayName": "player_skitting"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
